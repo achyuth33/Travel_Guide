@@ -1,0 +1,14 @@
+.image {
+  width: 100%;
+}
+
+.location-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  margin-bottom: 48px;
+  margin-right: 15px;
+  width: 40vw;
+}
